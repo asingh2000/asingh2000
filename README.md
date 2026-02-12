@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Ayush Singh!
-Welcome to my GitHub Profile! I'm a Quant professional driven by deep passion for mathematics, finance and programming to build robust and scalable financial models. 
+Welcome to my GitHub Profile! I'm a Quant professional driven by deep passion for mathematics, finance and programming to design robust analytical frameworks and quantitative models. 
 
 # About Me
 - 🔭 I’m currently working on **Credit Risk Management** and **Portfolio Analytics**.
